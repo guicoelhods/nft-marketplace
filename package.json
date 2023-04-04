@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guicoelhods/marketplace-polygon.git"
+    "url": "https://github.com/guicoelhods/nft-marketplace"
   },
   "author": "Guilherme C.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guicoelhods/marketplace-polygon/issues"
+    "url": "https://github.com/guicoelhods/nft-marketplaceissues"
   },
-  "homepage": "https://github.com/guicoelhods/marketplace-polygon#readme",
+  "homepage": "https://github.com/guicoelhods/nft-marketplace#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "hardhat": "^2.13.0"
